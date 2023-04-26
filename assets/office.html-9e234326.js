@@ -1,0 +1,1 @@
+import{_ as t,N as a,U as c,V as e,a5 as o}from"./framework-b080531d.js";const s={},n=e("h1",{id:"ai-办公",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ai-办公","aria-hidden":"true"},"#"),o(" AI 办公")],-1),r=e("p",null,"待补充...",-1),_=[n,r];function i(d,f){return a(),c("div",null,_)}const h=t(s,[["render",i],["__file","office.html.vue"]]);export{h as default};

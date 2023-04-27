@@ -34,10 +34,7 @@ containerClass: nav-container
   desc: 高效AI绘画服务，支持多种AI模型
   link: https://askiweb.com/
 
-- icon: '@websites/leonardo.ai.png'
-  name: Leonardo.Ai
-  desc: 以人工智能驱动的AI绘画工具。
-  link: https://leonardo.ai/
+-![dtab black_98x98](https://user-images.githubusercontent.com/129741181/234870417-00ed305d-89d1-4f7d-b721-9f4421411770.png)
 
 - icon: '@websites/dreamstudio.svg'
   name: DreamStudio
@@ -239,5 +236,8 @@ containerClass: nav-container
   desc: 开源免费 AI 图片无损放大工具 (离线/跨平台)。
   link: https://www.upscayl.org/
 ```
-
+- icon: '![dtab black_98x98](https://user-images.githubusercontent.com/129741181/234870552-2e51b977-beea-4c89-b94a-29a661842f1b.png)
+  name: DoMyShoot
+  desc: DoMyShoot 是一款由人工智能驱动的产品摄影应用程序，可帮助在线卖家以更便宜、更快速的方式制作专业品质的照片。
+  link: https://www.domyshoot.com/
 :::

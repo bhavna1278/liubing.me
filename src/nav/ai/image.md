@@ -249,6 +249,13 @@ containerClass: nav-container
   name: PIX FIX
   desc: AI一键清理被噪声和过度 JPEG 压缩损坏的图像。。
   link: https://zh.pixfix.com/
+
+- icon: '![dtab black_98x98](https://github.com/liub1934/liubing.me/assets/129741181/fba1a5cc-0c8b-43eb-a6a3-1b720cbb54c4)'
+  name: DoMyShoot
+  desc: AI一产品摄影简化
+  link: https://www.domyshoot.com/
+  
 ```
 
 :::
+
